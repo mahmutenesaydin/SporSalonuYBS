@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Antreman Ekleme";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using SporsalonuBYSS.Models;
+@model List<Exercis>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Antreman Ekleme</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Antreman ID</th>
+                        <th>Antrenör</th>
+                        <th>Antreman Adı</th>
+                        <th>Tanımı</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Antreman ID</th>
+                        <th>Antrenör</th>
+                        <th>Antreman Adı</th>
+                        <th>Tanımı</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (Exercis e in Model)
+                    {
+                        <tr>
+                            <td>@e.ExercisesID</td>
+                            <td>@e.Trainer.FirstName</td>
+                            <td>@e.ExerciseName</td>
+                            <td>@e.Description</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<form method="post" action="@Url.Action("AddTraining","AdminpTraining" )">
+    <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label for="text">Antrenör</label>
+            <select class="form-control" placeholder="Antrenör Giriniz" name="TrainerID">
+                @foreach (Trainer t in ViewBag.Trainer)
+                {
+                    <option value="@t.TrainerID">@t.FirstName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Antreman Adı</label>
+            <input type="text" class="form-control" placeholder="Antreman Giriniz" name="ExerciseName" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Tanımı</label>
+            <input type="text" class="form-control" placeholder="Antreman Açıklaması" name="Description" required>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success" value="AddTraining">Ekle</button>
+</form>
+

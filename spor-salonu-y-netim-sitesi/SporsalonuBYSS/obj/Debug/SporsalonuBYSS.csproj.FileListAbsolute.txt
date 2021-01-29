@@ -1,0 +1,973 @@
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CoreCompileInputs.cache
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\Bulletdark\Desktop\SporsalonuBYSS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\SSBYS\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\ssbys2\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CoreCompileInputs.cache
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\meteh\OneDrive\Masaüstü\DenemeProjesi\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\MVC Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CoreCompileInputs.cache
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\berki\OneDrive\Desktop\Projeler\Visual Studio\MVC\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\meteh\Desktop\Proje\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\Proje\Yeni klasör (2)\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\mvc\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojResolveAssemblyReference.cache
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\abc\Desktop\MVC Proje\Yeni klasör\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\burun\Desktop\ssbys3\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll.config
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\SporsalonuBYSS.pdb
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.exe.config
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csc.rsp
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.exe.config
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\csi.rsp
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Console.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.exe.config
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\vbc.rsp
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\EntityFramework.SqlServer.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Razor.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Helpers.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\System.Web.Mvc.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csprojAssemblyReference.cache
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.csproj.CopyComplete
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.dll
+C:\Users\meteh\Desktop\Proje\Son Hali\spor-salonu-y-netim-sitesi\SporsalonuBYSS\obj\Debug\SporsalonuBYSS.pdb

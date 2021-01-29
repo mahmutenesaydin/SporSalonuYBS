@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "GetUserProducts";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+@using SporsalonuBYSS.Models;
+@model  List<Product>
+    <script src="~/Content/Jquery/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function myfunction() {
+            $(".tobasket").click(function myfunction2() {
+                var id2 = $(this).attr("name");
+                $.ajax({
+                    type: "Get",
+                    url: "/UserpProducts/AddToBasket",
+                    data: { id: id2 },
+                    success: function myfunction() {
+                        $.ajax({
+                            type: "Get",
+                            url: "/UserpProducts/BasketWidget",
+                            success: function GetData(data) {                          
+                                $(".ornekcart").html(' ');
+                                $(".ornekcart").html(data);
+                            }
+                        });
+                    },
+                    error: function myfunction() {
+                        alert("error");
+                    }
+                });
+            });
+        });
+    </script>
+<section class="no_sidebar_2column_area">
+    <div class="container">
+        <div class="showing_fillter">
+
+        </div>
+        <div class="two_column_product">
+            <div class="row">
+                @foreach (Product p in Model)
+                {
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="l_product_item">
+                            <div class="l_p_img">
+                               
+                                <a href="/UserpProducts/ProductDetails/@p.ProductID"><img class="img-fluid" src="@Url.Content(p.ImageUrl)" alt=""></a>
+
+                                <h5 class="sale">Stokta</h5>
+
+
+                            </div>
+                            <div class="l_p_text">
+                                <ul>
+
+                                    <li><a class="add_cart_btn tobasket" name="@p.ProductID" href="#">Sepete ekle</a></li>
+
+                                </ul>
+                                <h4>@p.ProductName</h4>
+                                <h5>  @p.Price ₺</h5>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
+

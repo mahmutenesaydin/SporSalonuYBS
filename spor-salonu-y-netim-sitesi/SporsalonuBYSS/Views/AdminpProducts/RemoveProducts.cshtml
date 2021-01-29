@@ -1,0 +1,20 @@
+﻿@using SporsalonuBYSS.Models
+@model Product
+@{
+    ViewBag.Title = "RemoveProducts";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form method="post" action="/AdminpProducts/RemoveProducts">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Ürünler</h6>
+        </div>
+        <div class="card-body">
+            <p>@Model.ProductName isimli ürün silinsin mi ?</p>
+            <input type="hidden" name="ProductID" value="@Model.ProductID" />
+            <button type="submit" class="btn btn-dark">Sil</button>
+        </div>
+    </div>
+</form>
+

@@ -1,0 +1,197 @@
+﻿@using SporsalonuBYSS.Models
+@model List<Basket>
+@{
+    ViewBag.Title = "BasketIndex";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<script src="~/Content/Jquery/jquery-3.5.1.min.js"></script>
+<script>
+    $(document).ready(function myfunction() {
+        $(".reducebasket").click(function myfunction2() {
+
+            var productid = $(this).attr("alt");
+            var basketid = $(this).attr("name");
+
+            $.ajax({
+                type: "Get",
+                url: "/UserpBasket/UpdateBask_R",
+                data: { 'productid': productid, 'basketid': basketid },
+                success: function myfunction() {
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpProducts/BasketWidget",
+                        success: function GetData(data) {
+                        
+                            $(".ornekcart").html(' ');
+                            $(".ornekcart").html(data);
+                        }
+                    });
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpBasket/ProductSumTotalQuery",
+                        success: function GetData(data) {
+                           
+                            $(".getsum").html(' ');
+                            $(".getsum").html(data);
+                        }
+
+                    });
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpBasket/ProductTotalQuery",
+                        success: function GetData(data) {
+                           
+                            $(".getsub").html(' ');
+                            $(".getsub").html(data);
+                        }
+
+                    });
+
+                },
+                error: function myfunction() {
+                    alert("error");
+                }
+            });
+        });
+        $(".increasebasket").click(function myfunction3() {
+            var productid = $(this).attr("alt");
+            var basketid = $(this).attr("name");
+
+            $.ajax({
+                type: "Get",
+                url: "/UserpBasket/UpdateBask",
+                data: { 'productid': productid, 'basketid': basketid },
+                success: function myfunction() {
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpProducts/BasketWidget",
+                        success: function GetData(data) {
+                          
+                            $(".ornekcart").html(' ');
+                            $(".ornekcart").html(data);
+                        }
+                    });
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpBasket/ProductSumTotalQuery",
+                        success: function GetData(data) {
+               
+                            $(".getsum").html(' ');
+                            $(".getsum").html(data);
+                        }
+
+                    });
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpBasket/ProductTotalQuery",
+                        success: function GetData(data) {
+                         
+                            $(".getsub").html(' ');
+                            $(".getsub").html(data);
+                        }
+
+                    });
+
+                },
+                error: function myfunction() {
+                    alert("error");
+                }
+            });
+        });
+    });
+</script>
+<section class="shopping_cart_area p_100">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="cart_items">
+                    <h3>Sepetteki ürünler</h3>
+                    <div class="table-responsive-md">
+                        <table class="table">
+                            <tbody>
+                                @foreach (Basket b in Model)
+                                {
+                                    <tr>
+                                        <th scope="row">
+                                       <a href="/UserpBasket/DeleteBasket/@b.BasketID"><img src="~/Content/UserContent/img/icon/close-icon.png" alt=""></a>
+                                        </th>
+                                        <td>
+                                            <div class="media">
+                                                <div class="d-flex">
+
+                                                </div>
+                                                <div class="media-body">
+                                                    <h4>@b.Product.ProductName</h4>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td hidden name="@b.ProductID" class="productid">
+                                        <td hidden name="@b.BasketID" class="basketid">
+                                        <td><p class="red">@b.Price </p></td>
+                                        <td>
+                                            <div class="quantity">
+                                                <h6>Miktar</h6>
+                                                <div class="custom">
+
+                                                    <button name="@b.BasketID" alt="@b.ProductID" onclick="var result = document.getElementById('@b.Quantity'); var sst = result.value; if( sst != 1)result.value-- ;return false ;" class="reduced items-count reducebasket" type="button"><i class="icon_minus-06"></i></button>
+                                                    @*Quantity burada tutuluyor*@
+                                                    <input type="text" name="@b.Quantity" id="@b.Quantity" maxlength="12" value="@b.Quantity" title="Miktar:" class="input-text qty @b.Quantity">
+
+                                                    <button name="@b.BasketID" alt="@b.ProductID" onclick="var result = document.getElementById('@b.Quantity'); var sst = result.value; if (!isNaN(sst)) result.value++; return false;" class="increase items-count increasebasket" type="button"><i class="icon_plus"></i></button>
+                                                </div>
+                                            </div>
+                                        </td>
+
+                                    </tr>
+                                }
+
+
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="cart_totals_area">
+                    <h4>Ürünler</h4>
+                    <div class="cart_t_list">
+                        <div class="media">
+                            <div class="d-flex">
+                                <h5>Toplam</h5>
+                            </div>
+                            <div class="media-body">
+                                @{
+                                    Html.RenderAction("ProductSumTotalQuery", "UserpBasket");
+                                }
+
+                            </div>
+                        </div>
+                       
+                        <div class="media">
+                            <div class="d-flex">
+
+                            </div>
+                           
+                        </div>
+                    </div>
+                    <div class="total_amount row m0 row_disable">
+                        <div class="float-left">
+                            Toplam fiyat :
+                        </div>
+                        <div class="float-right">
+                            @{
+                                Html.RenderAction("ProductTotalQuery", "UserpBasket");
+                            }
+                        </div>
+                    </div>
+                </div>
+                <a style ="color : white" href="@Url.Action("UserOrderPage","UserpOrder")"  class="btn subs_btn form-control">Devam Et</a>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+

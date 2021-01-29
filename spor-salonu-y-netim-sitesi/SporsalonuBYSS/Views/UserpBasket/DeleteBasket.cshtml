@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "DeleteBasket";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+    <div class="col-lg-4 col-sm-6">
+
+        <div class="l_product_item">
+            <div class="l_p_img">
+                <img class="img-fluid" src="@Url.Content(Model.Product.ImageUrl)" alt="">
+                <h5 class="sale">Sepette</h5>
+            </div>
+
+            <div class="l_p_text">
+                <form method="post" action="/UserpBasket/DeleteBasket">
+                    <input type="hidden" name="BasketID" value="@Model.BasketID" />
+                    <input type="hidden" name="ProductID" value="@Model.ProductID" />
+                    <ul>
+
+                        <li><button type="submit" class="add_cart_btn" href="#">Sil</button></li>
+
+                    </ul>
+                    <h4>@Model.Product.ProductName</h4>
+                    <h5> @Model.Price TL</h5>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+

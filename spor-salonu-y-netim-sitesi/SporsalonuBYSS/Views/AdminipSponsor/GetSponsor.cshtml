@@ -1,0 +1,45 @@
+﻿@using SporsalonuBYSS.Models;
+@model List<Sponsor>
+@{
+    ViewBag.Title = "GetSponsor";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>GetSponsor</h2>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Sponsor Listeleme Paneli</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Sponsor ID</th>
+                        <th>Bayi ID</th>
+                        <th>Sponsor Adı</th>
+                        <th>Image URL</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Sponsor s in Model)
+                    {
+                        <tr>
+                            <td>@s.SponsorID</td>
+                            <td>@s.DealerID</td>
+                            <td>@s.SponsorName</td>
+                            <td>@s.ImageUrl</td>
+                           
+                            <td>
+                              <a href="/AdminipSponsor/RemoveSponsor/@s.SponsorID">Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+

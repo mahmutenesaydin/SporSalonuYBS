@@ -1,0 +1,15 @@
+﻿@using SporsalonuBYSS.Models
+@model List<Basket>
+<li class="ornekcart">
+    <a href="~/UserpBasket/BasketIndex">
+        <i class="icon-handbag icons"></i>
+        @if (Model != null)
+        {
+            <i>@Model.Sum(m => m.SubTotalPrice).ToString()₺</i>
+        }
+        else
+        {
+            <i>Boş </i>
+        }
+    </a>
+</li>

@@ -1,0 +1,91 @@
+﻿@{
+    ViewBag.Title = "Kullanıcı Güncelleme";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using SporsalonuBYSS.Models;
+@model List<User>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Kullanıcı Güncelleme Paneli</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Kullanıcı ID</th>
+                        <th>Kullanıcı Adı</th>
+                        <th>Parola</th>
+                        <th>Rol</th>
+                        <th>E-Mail</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (User u in Model)
+                    {
+                        <tr>
+                            <td>@u.UserID</td>
+                            <td>@u.Username</td>
+                            <td>@u.Password</td>
+                            <td>@u.Role.Role1</td>
+                            <td>@u.EMail</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<form class="needs-validation" method="post" action="@Url.Action("UpdateUser","AdminpUser")">
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="text">Kullanıcı ID</label>
+            <input type="text" class="form-control" placeholder="ID giriniz" name="UserID" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Kullanıcı Adı</label>
+            <input type="text" class="form-control" placeholder="Kullanıcı Adı Giriniz" name="Username" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Şifre</label>
+            <input type="text" class="form-control" placeholder="Şifre Giriniz" name="Password" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Role ID</label>
+            <select class="form-control" name="RoleID">
+                @foreach (Role r in ViewBag.Role)
+                {
+                    <option value="@r.RoleID">@r.Role1</option>
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">E-Mail</label>
+            <input type="text" class="form-control" placeholder="E-Mail Giriniz" name="EMail" required>
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Güncelle</button>
+</form>
+
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>

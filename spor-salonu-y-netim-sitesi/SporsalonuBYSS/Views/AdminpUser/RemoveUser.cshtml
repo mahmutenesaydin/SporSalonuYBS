@@ -1,0 +1,20 @@
+﻿@using SporsalonuBYSS.Models
+@model User
+@{
+    ViewBag.Title = "RemoveUser";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+    <form method="post" action="/AdminpUser/RemoveUser">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Kullanıcılar</h6>
+            </div>
+            <div class="card-body">
+                <p>@Model.Username isimli kullanıcı silinsin mi ?</p>
+                <input type="hidden" name="UserID" value="@Model.UserID" />
+                <button type="submit" class="btn btn-danger">Sil</button>
+            </div>
+        </div>
+    </form>

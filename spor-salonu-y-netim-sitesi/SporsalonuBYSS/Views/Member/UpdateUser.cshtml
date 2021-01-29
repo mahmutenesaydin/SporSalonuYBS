@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "UpdateUser";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<h3>Kullanıcı Bilgilerim</h3>
+<br />
+<form class="billing_inner row" style="font-size:15px" method="post" action="/Member/UpdateUser">
+    <div class="col-lg-12">
+
+        <input type="hidden" id="UserID" name="UserID" value="1"/>
+
+        <div class="form-group">
+            <b> <label for="name">Adınız </label></b>
+            <input type="text" class="form-control" name="Firstname" id="Firstname" aria-describedby="Firstname" placeholder=@Session["Firstname"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <b> <label for="name">Soyadınız </label></b>
+            <input type="text" class="form-control" name="LastName" id="LastName" aria-describedby="LastName" placeholder=@Session["LastName"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <b> <label for="name">Kullanıcı Adınız </label></b>
+            <input type="text" class="form-control" name="Username" id="Username" aria-describedby="Username" placeholder=@Session["Username"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <b> <label for="name">Şifreniz </label></b>
+            <input type="password" class="form-control" name="Password" id="Password" aria-describedby="Password" placeholder=@Session["Password"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <b> <label for="name">EMail Adresiniz </label></b>
+            <input type="text" class="form-control" name="EMail" id="EMail" aria-describedby="EMail" placeholder=@Session["EMail"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <b> <label for="name">Telefon Numaranız </label></b>
+            <input type="text" class="form-control" name="Phone" id="Phone" aria-describedby="Phone" placeholder=@Session["Phone"]>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="form-group">
+            <button type="submit" value="submit" class="btn subs_btn form-control">Bilgilerimi Güncelle</button>
+        </div>
+    </div>
+</form>
+
+<br />

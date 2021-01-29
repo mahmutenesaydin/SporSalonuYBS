@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Ürün Listeleme";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using SporsalonuBYSS.Models
+@model List<Product>
+
+<h2>Ürün Listeleme</h2>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Ürün Listeleme Paneli</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Ürün ID</th>
+                        <th>Ürün İsmi</th>
+                        <th>Kategori Adı</th>
+                        <th>Bayi Adı</th>
+                        <th>Fiyat</th>
+                        <th>Resim</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Product p in Model)
+                    {
+                        <tr>
+                            <td>@p.ProductID</td>
+                            <td>@p.ProductName</td>
+                            <td>@p.Category.CategoryName</td>
+                            <td>@p.DealerID</td>
+                            <td>@p.Price</td>
+                            <td>@p.ImageUrl</td>
+                            <td>
+                                <a href="/AdminpProducts/RemoveProducts/@p.ProductID" class="btn btn-danger">Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

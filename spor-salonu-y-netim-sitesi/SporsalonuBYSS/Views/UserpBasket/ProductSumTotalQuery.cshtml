@@ -1,0 +1,6 @@
+﻿@using SporsalonuBYSS.Models
+@model List<Basket>
+@if (Model != null)
+{
+    <h6 class="getsum">  @Model.Sum(b => b.SubTotalPrice).ToString() TL </h6>
+}

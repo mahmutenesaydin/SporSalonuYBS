@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "Kullanıcı Güncelleme";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using SporsalonuBYSS.Models;
+@model List<Product>
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Kullanıcı Güncelleme Paneli</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Ürün ID</th>
+                        <th>Ürün İsmi</th>
+                        <th>Categori Adı</th>
+                        <th>Bayi Adı</th>
+                       
+                        <th>Fiyat</th>
+                        <th>Resim</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Product p in Model)
+                    {
+                        <tr>
+                            <td>@p.ProductID</td>
+                            <td>@p.ProductName</td>
+                            <td>@p.Category.CategoryName</td>
+                            <td>@p.DealerID</td>
+                          
+                            <td>@p.Price</td>
+                            <td>@p.ImageUrl</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<form class="needs-validation" method="post" action="@Url.Action("UpdateProducts", "AdminpProducts")">
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="text">Ürün ID</label>
+            <input type="text" class="form-control" placeholder="ID giriniz" name="ProductID" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Ürün Adı</label>
+            <input type="text" class="form-control" placeholder="Ürünün Adını Giriniz" name="ProductName" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Kategori</label>
+            <select class="form-control" placeholder="Kategori Giriniz" name="CategoryID">
+                @foreach (Category c in ViewBag.Category)
+                {
+                    <option value="@c.CategoryID">@c.CategoryName</option>
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Bayimiz</label>
+            <select class="form-control" placeholder="Bayi Adını Giriniz" name="DealerID">
+                @foreach (Dealer d in ViewBag.Dealer)
+                {
+                    <option value="@d.DealerID">@d.DealerName</option>
+                }
+            </select>
+        </div>
+      
+
+        <div class="form-group col-md-6">
+            <label for="text">Resim</label>
+            <input type="text" class="form-control" placeholder="Resim Giriniz" name="ImageUrl">
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Ekle</button>
+</form>
+
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>

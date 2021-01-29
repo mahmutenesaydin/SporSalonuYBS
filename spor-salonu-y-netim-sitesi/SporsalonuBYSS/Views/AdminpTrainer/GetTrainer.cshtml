@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "GetTrainer";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using SporsalonuBYSS.Models
+@model List<Trainer>
+
+<h2>Antrenör Listeleme</h2>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Antrenör Listesi</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Antrenör ID</th>
+                        <th>Role Adı</th>
+                        <th>Bayi Adı</th>
+                        <th>Adı</th>
+                        <th>Soyadı</th>
+                        <th>E-mail</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Trainer t in Model)
+                    {
+                        <tr>
+                            <td>@t.TrainerID</td>
+                            <td>@t.RoleID</td>
+                            <td>@t.DealerID</td>
+                            <td>@t.FirstName</td>
+                            <td>@t.LastName</td>
+                            <td>@t.EMail</td>
+                            <td>
+                                <a href="/AdminpTrainer/RemoveTrainer/@t.TrainerID" class="btn btn-dark">Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

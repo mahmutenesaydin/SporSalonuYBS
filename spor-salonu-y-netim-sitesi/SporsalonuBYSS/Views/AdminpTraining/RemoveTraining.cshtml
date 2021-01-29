@@ -1,0 +1,21 @@
+﻿@using SporsalonuBYSS.Models
+@model Exercis
+    @{
+        ViewBag.Title = "RemoveTraining";
+        Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    }
+
+<form method="post" action="/AdminpTraining/RemoveTraining">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Antremanlar</h6>
+        </div>
+        <div class="card-body">
+            <p>@Model.ExerciseName isimli anterman silinsin mi ?</p>
+            <input type="hidden" name="ExercisesID" value="@Model.ExercisesID" />
+            <button type="submit" class="btn btn-danger">Sil</button>
+        </div>
+    </div>
+
+</form>
+

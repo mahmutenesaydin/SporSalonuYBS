@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "ProductDetails";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+@using SporsalonuBYSS.Models
+@model Product
+<script src="~/Content/Jquery/jquery-3.5.1.min.js"></script>
+<script>
+    $(document).ready(function myfunction() {
+        $(".tobasket").click(function myfunction2() {
+            var id2 = $(this).attr("name");
+            $.ajax({
+                type: "Get",
+                url: "/UserpProducts/AddToBasket",
+                data: { id: id2 },
+                success: function myfunction() {
+                    $.ajax({
+                        type: "Get",
+                        url: "/UserpProducts/BasketWidget",
+                        success: function GetData(data) {
+
+                            $(".ornekcart").html(' ');
+                            $(".ornekcart").html(data);
+                        }
+                    });
+                },
+                error: function myfunction() {
+                    alert("error");
+                }
+            });
+
+        });
+    });
+</script>
+<section class="product_details_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="product_details_slider">
+                    <img src="@Url.Content(Model.ImageUrl)" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="product_details_text">
+                    <h3>@Model.ProductName</h3>
+                    <h6>Stok Durumu :  <span>Stokta</span></h6>
+                    <h4>@Model.Price.ToString() TL</h4>
+                    <p>@Model.Description</p>
+
+
+                    <div class="quantity">
+
+                        <a class="add_cart_btn tobasket" name="@Model.ProductID" href="">Sepete Ekle</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

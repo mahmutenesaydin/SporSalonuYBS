@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "ListTraining";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@using SporsalonuBYSS.Models
+@model List<Exercis>
+
+<h2>Antreman Listeleme</h2>
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Antrenör Listesi</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>ExercisesID</th>
+                        <th>TrainerID</th>
+                        <th>ExerciseName</th>
+                        <th>Description</th>
+                        <th>Sil </th>
+                      
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Exercis t in Model)
+                    {
+                    <tr>
+                        <td>@t.ExercisesID</td>
+                        <td>@t.TrainerID</td>
+                        <td>@t.ExerciseName</td>
+                        <td>@t.Description</td>
+                        <td>
+                            <a href="/AdminpTraining/RemoveTraining/@t.ExercisesID" class="btn btn-danger">Sil</a>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

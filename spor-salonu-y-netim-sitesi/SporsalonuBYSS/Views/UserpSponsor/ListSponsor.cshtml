@@ -1,0 +1,40 @@
+﻿@using SporsalonuBYSS.Models;
+@model List<Sponsor>
+@{
+    ViewBag.Title = "ListSponsor";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<section class="solid_banner_area">
+    <div class="container">
+        <div class="solid_banner_inner">
+            <h3>Sponsorlarımız</h3>
+        </div>
+    </div>
+</section>
+
+@foreach (Sponsor item in Model)
+{
+    <div class="c_product_grid_details">
+        <div class="c_product_item">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="c_product_img">
+                        <img class="img-fluid" src="@Url.Content(item.ImageUrl)" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-6">
+                    <div class="c_product_text">
+                        <h4>Sponsor : @item.SponsorName</h4>
+                        <h5>Bayi :  @item.Dealer.DealerName</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+}
+

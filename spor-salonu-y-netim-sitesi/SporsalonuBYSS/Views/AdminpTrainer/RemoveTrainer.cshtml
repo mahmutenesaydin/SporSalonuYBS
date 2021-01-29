@@ -1,0 +1,20 @@
+﻿@using SporsalonuBYSS.Models
+@model Trainer
+@{
+    ViewBag.Title = "RemoveTrainer";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form method="post" action="/AdminpTrainer/RemoveTrainer">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Antrenörler</h6>
+        </div>
+        <div class="card-body">
+            <p>@Model.FirstName @Model.LastName isimli Antrenör silinsin mi ?</p>
+            <input type="hidden" name="TrainerID" value="@Model.TrainerID" />
+            <button type="submit" class="btn btn-dark">Sil</button>
+        </div>
+    </div>
+</form>
+

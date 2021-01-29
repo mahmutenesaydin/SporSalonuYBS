@@ -1,0 +1,80 @@
+﻿@using SporsalonuBYSS.Models
+@model List<Product>
+@{
+    ViewBag.Title = "AddProducts";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Ürünler Tablosu</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Ürün ID</th>
+                        <th>Kategori ID</th>
+                        <th>Bayi ID</th>
+                        <th>Ürün Adı</th>
+                      
+                        <th>Fiyat</th>
+                        <th>Resim Yolu</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Ürün ID</th>
+                        <th>Kategori ID</th>
+                        <th>Bayi ID</th>
+                        <th>Ürün Adı</th>
+                        <th>Fiyat</th>
+                        <th>Resim Yolu</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (Product list in Model)
+                    {
+                    <tr>
+                        <td>@list.ProductID</td>
+                        <td>@list.CategoryID</td>
+                        <td>@list.DealerID</td>
+                        <td>@list.ProductName</td>           
+                        <td>@list.Price</td>
+                        <td>@list.ImageUrl</td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<form method="post" action="@Url.Action("AddProducts","AdminpProducts")">
+    <div class="form-row">
+     
+        <div class="form-group col-md-6">
+            <label for="text">Kategori ID</label>
+            <input type="text" class="form-control" placeholder="ID giriniz" name="CategoryID" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Bayi ID</label>
+            <input type="text" class="form-control" placeholder="ID giriniz" name="DealerID" required>
+        </div>
+        <div class="form-group col-md-6">
+            <label for="text">Ürün Adı</label>
+            <input type="text" class="form-control" placeholder="Ürün adını giriniz" name="ProductName" required>
+        </div>
+      
+        <div class="form-group col-md-6">
+            <label for="text">Tutar</label>
+            <input type="text" class="form-control" placeholder="Fiyatı giriniz" name="Price" required>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="inputAddress">Resim Yolu</label>
+        <input type="text" class="form-control" id="inputAddress" placeholder="Resmin yolunu giriniz" name="ImageUrl" required>
+
+    </div>
+    <button type="submit" class="btn btn-success" value="AddProducts">Ekle </button>
+</form>
+

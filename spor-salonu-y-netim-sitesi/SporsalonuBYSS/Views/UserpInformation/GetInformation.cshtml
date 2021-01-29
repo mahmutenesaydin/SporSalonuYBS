@@ -1,0 +1,54 @@
+﻿@using SporsalonuBYSS.Models
+@model List<Trainer>
+@{
+    ViewBag.Title = "GetInformation";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<br />
+<h3>Antrenör Bilgileri</h3>
+<br />
+<form class="billing_inner row" style="font-size:15px">
+    @foreach (Trainer trainer in Model)
+    {
+        <div class="col-lg-3">
+            <div class="form-group">
+                <b> <label for="name">İsim : </label></b>
+                <label for="name"> @trainer.FirstName </label>
+            </div>
+        </div>
+
+        <div class="col-lg-3">
+            <div class="form-group">
+                <b> <label for="name">Soyisim : </label></b>
+                <label for="name"> @trainer.LastName </label>
+            </div>
+
+        </div>
+
+        <div class="col-lg-3">
+            <div class="form-group">
+                <b> <label for="name">Çalıştığı Bayi : </label></b>
+                <label for="name"> @trainer.Dealer.DealerName </label>
+            </div>
+
+        </div>
+
+        <div class="col-lg-3">
+            <div class="form-group">
+                <b> <label for="name">E-Mail adresi: </label></b>
+                <label for="name"> @trainer.EMail </label>
+            </div>
+
+        </div>
+    }
+
+
+
+
+
+
+
+
+</form>
+
+<br />
